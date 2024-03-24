@@ -70,4 +70,3 @@ The instructions for this mini project are divided into the following subsection
 7. **Verify data:** 
    - Run a SELECT statement for each table to ensure that each table has the correct data.
 
-[Include any acknowledgments, links to documentation, or additional information that you think would be helpful to users and contributors.]
